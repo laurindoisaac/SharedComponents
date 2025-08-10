@@ -1,2 +1,1 @@
-# SharedComponents
-Professional SharedComponents platform with SharedComponents-optimized modern-design and enterprise sharedcomponents-optimization capabilities
+.
